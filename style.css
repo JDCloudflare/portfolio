@@ -4,7 +4,7 @@ body {
   margin: 40px auto;
   line-height: 1.6;
   background-color: #15202b; 
-  color: #333;
+  color: #ffffff;
 }
 
 header h1 {
@@ -12,7 +12,7 @@ header h1 {
 }
 
 a {
-  color: #ffffff;
+  color: #ff6600;
   text-decoration: none;
 }
 
